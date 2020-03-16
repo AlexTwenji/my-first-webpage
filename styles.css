@@ -1,0 +1,38 @@
+h1 {
+  color:purple;
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 0px;
+}
+
+h2 {
+  color: blueviolet;
+  font-style: italic;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 40px;
+}
+
+p {
+  font-family: sans-serif;
+  text-align: justify;
+}
+
+ol {
+  line-height: 40px;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+strong {
+  font-style: italic !important;
+}
+
+em {
+  font-style: normal;
+  font-weight: bold !important;
+} 
